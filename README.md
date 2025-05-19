@@ -1,5 +1,3 @@
-# Terrance Hah
-
 Welcome to my GitHub profile! I'm Terrance, a tuition tutor and self-taught programmer with a degree in International Business. My passion is blending education and technology to create tools that make learning engaging and accessible, especially for kids. I aim to empower students to use technology creatively.
 
 ## Projects
@@ -34,17 +32,3 @@ I write about education, technology, and personal growth:
 
 * **Languages:** TypeScript, Swift, HTML, CSS, JavaScript
 * **Tools:** Node.js, Tailwind CSS, Vercel, Cloudflare, Stripe, Notion
-
-## Connect with Me
-
-Reach out or follow me here:
-
-* [Facebook](https://facebook.com/terrancehah)
-* [Instagram](https://instagram.com/terrancehah)
-* [X](https://x.com/terrance_hah)
-* [LinkedIn](https://linkedin.com/in/terrancehah)
-* [GitHub](https://github.com/terrancehah)
-
-## About This Repository
-
-This repository is my GitHub profile page, offering a snapshot of my work and interests. Want to collaborate or have questions? Contact me via the links above!
