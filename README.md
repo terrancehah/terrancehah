@@ -1,16 +1,50 @@
-## Hi there 👋
+# Terrance Hah
 
-<!--
-**terrancehah/terrancehah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Terrance, a tuition tutor and self-taught programmer with a degree in International Business. My passion is blending education and technology to create tools that make learning engaging and accessible, especially for kids. I aim to empower students to use technology creatively.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my key projects:
+
+### Travel-Rizz
+AI-powered travel planning assistant for personalized itineraries.  
+[Website](https://travelrizz.app) | [GitHub](https://github.com/terrancehah/travelrizz)
+
+### terrancehah.com
+My personal website showcasing projects, articles, and ideas.  
+[Website](https://terrancehah.com) | [GitHub](https://github.com/terrancehah/terrancehah.com)
+
+### whole-ios
+Bilingual quote display iOS app to inspire users.  
+[GitHub](https://github.com/terrancehah/whole-ios)
+
+### Notion Syllabus Planner
+Template for educators to organize teaching schedules.  
+[More Info](https://terrancehah.com/teaching-syllabus-template)
+
+
+## Articles
+
+I write about education, technology, and personal growth:
+
+* [The Art of Writing](https://terrancehah.com/the-art-of-writing)
+* [How to be Indistractable](https://terrancehah.com/how-to-be-indistractable)
+
+## Skills
+
+* **Languages:** TypeScript, Swift, HTML, CSS, JavaScript
+* **Tools:** Node.js, Tailwind CSS, Vercel, Cloudflare, Stripe, Notion
+
+## Connect with Me
+
+Reach out or follow me here:
+
+* [Facebook](https://facebook.com/terrancehah)
+* [Instagram](https://instagram.com/terrancehah)
+* [X](https://x.com/terrance_hah)
+* [LinkedIn](https://linkedin.com/in/terrancehah)
+* [GitHub](https://github.com/terrancehah)
+
+## About This Repository
+
+This repository is my GitHub profile page, offering a snapshot of my work and interests. Want to collaborate or have questions? Contact me via the links above!
