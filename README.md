@@ -8,10 +8,11 @@ My key projects, you can find them among my repositories below.
 
 I write about education, technology, and personal growth:
 
-* [Alter Ego: Are We Lost in our Digital Selves?](https://terrancehah.com/alter-ego)
-* [The Art of Writing](https://terrancehah.com/the-art-of-writing)
-* [How to be Indistractable](https://terrancehah.com/how-to-be-indistractable)
-* [Making Things Look Easy is Hard](https://terrancehah.com/making-things-look-easy-is-hard)
+* [About Writing](https://terrancehah.com/articles/about-writing)
+* [Alter Ego: Are We Lost in our Digital Selves?](https://terrancehah.com/articles/alter-ego)
+* [The Art of Writing](https://terrancehah.com/articles/the-art-of-writing)
+* [How to be Indistractable](https://terrancehah.com/articles/how-to-be-indistractable)
+* [Making Things Look Easy is Hard](https://terrancehah.com/articles/making-things-look-easy-is-hard)
 
 ## Skills
 
