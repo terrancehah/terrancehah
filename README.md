@@ -8,6 +8,7 @@ My key projects, you can find them among my repositories below.
 
 I write about education, technology, and personal growth:
 
+* [TNBYY (Tok Nenek – Bubu – Yong Yap) - My First G7 Camphike](https://terrancehah.com/articles/tnbyy-my-first-camphike)
 * [Rethinking the Relationship Between Human and Nature](https://terrancehah.com/articles/rethinking-relationship-between-human-and-nature)
 * [About Writing](https://terrancehah.com/articles/about-writing)
 * [Alter Ego: Are We Lost in our Digital Selves?](https://terrancehah.com/articles/alter-ego)
