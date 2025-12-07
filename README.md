@@ -10,7 +10,7 @@ Driven by curiosity, I explore diverse ideas and build projects that capture my 
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **MalaChilli** | A viral restaurant discount platform for Malaysian local eateries, featuring a multi-level referral system with virtual currency rewards to boost community engagement. | TypeScript, Node.js, Vercel, Stripe (for payments) | [MalaChilli Repo](https://github.com/terrancehah/MalaChilli) |
+| **MakanTak** | A viral restaurant discount platform for Malaysian local eateries, featuring a multi-level referral system with virtual currency rewards to boost community engagement. | TypeScript, Node.js, Vercel, Stripe (for payments) | [MakanTak](https://makantak.com) |
 | **travelrizz.app** | An AI-powered travel planning assistant that helps users create personalized itineraries, including interactive chats for trip planning and dynamic PDF exports. | TypeScript, Next.js, Vercel AI SDK, Tailwind CSS, Generative AI components | [travelrizz.app](https://travelrizz.app) |
 | **terrancehah.com** | My personal website serving as a portfolio and blog, where I log my thoughts, projects, and growth in tech and education. | HTML, CSS, JavaScript, Tailwind CSS, Cloudflare | [terrancehah.com](https://terrancehah.com) |
 | **Whole iOS** | A bilingual quote display app for iOS, designed to deliver inspirational quotes in multiple languages with widget support and subscription features. | Swift, SwiftUI, Supabase (for backend), WidgetKit, StoreKit | [Whole iOS Repo](https://github.com/terrancehah/whole-ios) |
